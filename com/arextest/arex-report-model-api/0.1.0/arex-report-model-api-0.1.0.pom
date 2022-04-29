@@ -13,7 +13,7 @@
     <version>0.1.0</version>
     <dependencies>
         <dependency>
-            <groupId>io.arex</groupId>
+            <groupId>com.arextest</groupId>
             <artifactId>arex-common</artifactId>
         </dependency>
     </dependencies>
