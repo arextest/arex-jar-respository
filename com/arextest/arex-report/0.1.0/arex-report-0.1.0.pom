@@ -35,7 +35,7 @@
         <shema.inferer.version>0.1.4</shema.inferer.version>
         <snakeyaml.version>1.29</snakeyaml.version>
         <arex-report-model-api.version>0.1.0</arex-report-model-api.version>
-        <arex-common.version>1.0.0-SNAPSHOT</arex-common.version>
+        <arex-common.version>0.1.0</arex-common.version>
         <springfox-boot-starter.version>3.0.0</springfox-boot-starter.version>
     </properties>
     <dependencyManagement>
@@ -62,7 +62,7 @@
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <groupId>io.arex</groupId>
+                <groupId>com.arextest</groupId>
                 <artifactId>arex-common</artifactId>
                 <version>${arex-common.version}</version>
             </dependency>
