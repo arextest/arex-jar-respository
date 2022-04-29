@@ -21,7 +21,7 @@
             <artifactId>arex-report-model-api</artifactId>
         </dependency>
         <dependency>
-            <groupId>io.arex</groupId>
+            <groupId>com.arextest</groupId>
             <artifactId>arex-common</artifactId>
             <exclusions>
                 <exclusion>
